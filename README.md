@@ -1,1 +1,1 @@
-Lean Next.js
+Learn Next.js
